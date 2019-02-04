@@ -1,0 +1,9 @@
+DEBUG: frac=1.0E-4, minOutDeg=0. Number of engaged nodes: 247272866. Average number of high neighbours: 15.585547840459594
+DEBUG: frac=0.001, minOutDeg=0. Number of engaged nodes: 247272866. Average number of high neighbours: 33.624207207381765
+DEBUG: frac=0.01, minOutDeg=0. Number of engaged nodes: 247272866. Average number of high neighbours: 56.015402333051654
+DEBUG: frac=1.0E-4, minOutDeg=10. Number of engaged nodes: 87781481. Average number of high neighbours: 33.504380925930015
+DEBUG: frac=0.001, minOutDeg=10. Number of engaged nodes: 87781481. Average number of high neighbours: 77.58577386095546
+DEBUG: frac=0.01, minOutDeg=10. Number of engaged nodes: 87781481. Average number of high neighbours: 135.0796100822231
+DEBUG: frac=1.0E-4, minOutDeg=20. Number of engaged nodes: 63467039. Average number of high neighbours: 43.40287104867742
+DEBUG: frac=0.001, minOutDeg=20. Number of engaged nodes: 63467039. Average number of high neighbours: 103.27816858363582
+DEBUG: frac=0.01, minOutDeg=20. Number of engaged nodes: 63467039. Average number of high neighbours: 181.60317715044616
